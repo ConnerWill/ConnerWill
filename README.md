@@ -4,14 +4,29 @@
 	</a>
 </div>
 
-<div align="center">
+<div align="left">
 	<a href="https://github.com/ConnerWill">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5"/>
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
+		<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5"/>
+		</div>
+<div align="right">
+	<a href="https://github.com/ConnerWill">
+		<img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
 	</a>
 </div>
-		
-		
+
+<p>
+<code>
+      ____    
+    /\  _ `\                                         
+    \ \ \/\_\    ___     ___      ___       __    _ __ 
+     \ \ \/_/_  / __`\ /' _ `\  /' _ `\   /'__`\ /\`'__\
+      \ \ \L\ \/\ \L\ \/\ \/\ \ /\ \/\ \ /\  __/ \ \ \/
+       \ \____/\ \____/\ \_\ \_\\ \_\ \_\\ \____\ \ \_\
+        \/___/  \/___/  \/_/\/_/ \/_/\/_/ \/____/  \/_/			
+</code>
+</p>
+---
+
 	
 	</a>
 
