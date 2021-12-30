@@ -3,17 +3,20 @@
 		<img align="center" src="https://bingimages.herokuapp.com/unsplash2" />
 	</a>
 </div>
+<br></br>
+<div align="center">
+	<a href="https://github.com/ConnerWill">
+		<img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5"/>
+</div>
 
-<div align="left">
+<br></br>
+<div align="center">
 	<a href="https://github.com/ConnerWill">
-		<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5"/>
-		</div>
-<div align="right">
-	<a href="https://github.com/ConnerWill">
-		<img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=tokyonight&hide=" />
+		<img align="center" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=tokyonight&hide=" />
 	</a>
 </div>
 
+<!---
 <p>
 <code>
       ____    
@@ -25,18 +28,14 @@
         \/___/  \/___/  \/_/\/_/ \/_/\/_/ \/____/  \/_/			
 </code>
 </p>
+--->
 ---
-
 	
-	</a>
-
-
 ### Hi there 👋
 
 *
 * work in progress ...
 *
-
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
