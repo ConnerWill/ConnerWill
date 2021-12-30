@@ -6,11 +6,11 @@
 
 <div align="left">
 	<a href="https://github.com/ConnerWill">
-		<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5"/>
+		<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5"/>
 		</div>
 <div align="right">
 	<a href="https://github.com/ConnerWill">
-		<img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
+		<img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=tokyonight&hide=" />
 	</a>
 </div>
 
@@ -76,6 +76,5 @@
 **ConnerWill/ConnerWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift)](https://github.com/connerwill/capshift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/connerwill/capshift)
 
