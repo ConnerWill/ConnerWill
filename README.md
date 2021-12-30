@@ -1,4 +1,20 @@
-![](https://bingimages.herokuapp.com/unsplash2)
+<div align="center">
+	<a href="https://github.com/ConnerWill">
+		<img align="center" src="https://bingimages.herokuapp.com/unsplash2" />
+	</a>
+</div>
+
+<div align="center">
+	<a href="https://github.com/ConnerWill">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
+	</a>
+</div>
+		
+		
+	
+	</a>
+
 
 ### Hi there 👋
 
@@ -7,23 +23,10 @@
 *
 
 
-
-
-<a href="https://github.com/ConnerWill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
-</a>
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
-
-
-
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-    <img src="http://views.whatilearened.today/views/github/ConnerWill/views.svg"/>
+<p>
+<img src="http://views.whatilearened.today/views/github/ConnerWill/views.svg"/>
 <!--
     <a href="htts://connerwill.com"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=htts://connerwill.com"/></a>
 
