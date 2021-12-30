@@ -26,9 +26,9 @@
     <img src="http://views.whatilearened.today/views/github/ConnerWill/views.svg"/>
 <!--
     <a href="htts://connerwill.com"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=htts://connerwill.com"/></a>
--->
-<a href="https://github.com/ConnerWill/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https://dampsock.com"/></a>
 
+![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fdampsock.com)
+-->
 	  
 <a href="https://github.com/ConnerWill/"><img src="https://img.shields.io/github/followers/ConnerWill?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/ConnerWill?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
