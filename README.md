@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/ConnerWill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=glsl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=radical&hide=" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
