@@ -12,7 +12,7 @@
 <br></br>
 <div align="center">
 	<a href="https://github.com/ConnerWill">
-		<img align="center" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&theme=tokyonight&hide=" />
+		<img align="center" width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=10&theme=tokyonight&hide=" />
 	</a>
 </div>
 
@@ -70,7 +70,7 @@
     	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connerwill&langs_count=10)](https://github.com/connerwill/)
 <!--
 **ConnerWill/ConnerWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
