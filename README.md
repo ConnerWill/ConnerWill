@@ -12,7 +12,7 @@
 <br></br>
 <div align="center">
 	<a href="https://github.com/ConnerWill">
-		<img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=10&theme=tokyonight&hide=" />
+		<img align="center" width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=10&theme=tokyonight&hide=" />
 	</a>
 </div>
 
