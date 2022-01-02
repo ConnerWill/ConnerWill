@@ -14,6 +14,8 @@
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5)](https://github.com/ConnerWill)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=10&theme=tokyonight&hide=)](https://github.com/ConnerWill)
 
+---
+
 
 [![CAPshift](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/connerwill/capshift)
 	
