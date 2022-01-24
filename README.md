@@ -7,25 +7,23 @@
    \ \____/\ \____/\ \_\ \_\ \_\ \_\ \____\\ \_\  \ `\___x___/\ \_\/\____\/\____\
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/                                                                                                                                                  
 ```
-
+---
+<!--
 <div align="center">
 	<a href="https://github.com/ConnerWill">
 		<img align="center" src="https://bingimages.herokuapp.com/unsplash2" />
 	</a>
 </div>
-
 > *Randomly generated image*
-> 
 ---
+-->
+
+[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://gitlab.com/connerwill)
 
 [![Profile Views](http://views.whatilearened.today/views/github/ConnerWill/views.svg)](https://github.com/ConnerWill)
 [![Profile Followers](https://img.shields.io/github/followers/ConnerWill?color=#4CC61E)](https://github.com/ConnerWill)
 [![Open Source Badge](https://badges.frapsoft.com/os/v2/open-source.svg)](https://github.com/ConnerWill)
 [![Ask Me Anything Badge](https://img.shields.io/badge/Askme-anything-1abc9c.svg)](https://github.com/ConnerWill)
-
-
-[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://gitlab.com/connerwill)
-
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9467ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9467ff)
