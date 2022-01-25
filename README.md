@@ -30,8 +30,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9467ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9467ff)
 
-
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5)](https://github.com/ConnerWill)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=10&theme=tokyonight&hide=)](https://github.com/ConnerWill)
 
 ---
@@ -46,7 +44,11 @@
 [![arch-pi](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/connerwill/arch-pi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/ConnerWill)
-	  
+
+
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5)](https://github.com/ConnerWill)
+
+
 ---
 
 <div align="center">
