@@ -41,7 +41,7 @@
 	
 [![iBackup-Pythonista](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=iBackup-Pythonista&theme=tokyonight)](https://github.com/connerwill/iBackup-Pythonista)
 	
-[![arch-pi](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/connerwill/arch-pi)
+[![arch-pi](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=arch-pi&theme=tokyonight)](https://github.com/connerwill/arch-pi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight)](https://github.com/ConnerWill)
 
