@@ -48,6 +48,8 @@
 
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&line_height=27&v=5)](https://github.com/ConnerWill)
 
+[gists](https://gist.github.com/ConnerWill)
+
 
 ---
 
