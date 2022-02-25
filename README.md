@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-        <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="85%">
+        <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="60%">
 </div>
 
 >  *Randomly generated image*
