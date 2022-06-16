@@ -59,9 +59,12 @@
 </a>
 </p>
 
-[gists](https://gist.github.com/ConnerWill)
+[GitHub](https://github.com/ConnerWill)
+
+[GitHub Gists](https://gist.github.com/ConnerWill)
  
- 
+[GitLab](https://gitlab.com/ConnerWill)
+
 [connerwill.com](https://connerwill.com)
  
 ---
