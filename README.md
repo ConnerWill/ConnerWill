@@ -60,7 +60,8 @@
 </p>
 
 [gists](https://gist.github.com/ConnerWill)
-
+[connerwill.com](https://connerwill.com)
+ 
 ---
 
 <div align="center">
