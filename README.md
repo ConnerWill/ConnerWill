@@ -65,7 +65,7 @@
 
 -->
 
-→│[GitHub](https://github.com/ConnerWill)│[GitLab](https://gitlab.com/ConnerWill)│[GitHub Gists](https://gist.github.com/ConnerWill)│[connerwill.com](https://connerwill.com)│←
+→│[GitHub](https://github.com/ConnerWill)│[GitLab](https://gitlab.com/ConnerWill)│[Gists](https://gist.github.com/ConnerWill)│[connerwill.com](https://connerwill.com)│←
  
 ---
 
