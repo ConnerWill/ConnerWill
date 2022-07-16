@@ -33,7 +33,7 @@
 <div align="center">
  <span>
   <sample>
-   <b><a href="https://connerwill.com">┌────────────────────────────────────────┐</a></b>
+   <b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b>
   </sample>
   <kbd>
    <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
@@ -62,13 +62,11 @@
    <a href="https://connerwill.com"><kbd><kbd> ₹ </kbd> ← </kbd></a>
   </kbd>
   <sample>
-   <b><a href="https://connerwill.com">└────────────────────────────────────────┘</a></b>
+   <b><a href="https://connerwill.com">╚════════════════════════════════════════╝</a></b>
   </sample>
  </span>
+<br><br>
 </div>
-
----
- 
 </div>
 <div align="center">
  
@@ -145,6 +143,11 @@
 <details>
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::tr
 
+ 
+ ╔════════════════════════════════════════╗
+ 
+ 
+ └────────────────────────────────────────┘
 </div>
 </div>
 </div>
@@ -152,4 +155,7 @@
 </details>
 </details>
 </details>
+ 
+ 
+ 
 </div>
