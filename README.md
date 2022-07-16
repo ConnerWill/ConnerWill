@@ -77,11 +77,11 @@
 <div align="center">
 
 <p><b>
-┌─────────────────────────────┐
+<a href="https://connerwill.com">┌─────────────────────────────┐</a>
 </b></p>
 
 
-→ <kbd> π </kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd> ∞ </kbd> ←
+<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd><a href="https://connerwill.com"><kbd> ∞ </kbd> ←</kbd></a>
  
 </div>
 <br>
@@ -91,10 +91,10 @@
 <br>
 <div align="center">
 
-→ <kbd> ∞ </kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd>  <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd> Σ </kbd> ←
+<kbd><a href="https://connerwill.com">→</a> <kbd> ∞ </kbd></kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd>  <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd><a href="https://connerwill.com"><kbd> Σ </kbd> ←</kbd></a>
 
 <p><b>
-└─────────────────────────────┘
+<a href="https://connerwill.com">└─────────────────────────────┘</a>
 </b></p>
 
 ---
