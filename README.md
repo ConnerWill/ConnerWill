@@ -120,8 +120,6 @@
 ```
  
 </div>
- 
- 
 <div align="left">
  
 ```diff
@@ -129,10 +127,8 @@
 ```
 
 </div> 
- 
- 
- <details>
-
+<details>
+:shipit:
 <div align="left">
  
 ```diff
