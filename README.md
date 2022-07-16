@@ -132,7 +132,7 @@
   </details></details>
   </details>
 </div>
-<br><br>
+<br>
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
