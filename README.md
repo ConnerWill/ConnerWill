@@ -123,14 +123,13 @@
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 ═══════════════════════════════════════════════════════════════════════════
 </div></div>
- </details></details>
-</details>
 <details>
 <div align="center">
  <span>
   $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
  </span>
+  </details></details>
 </div>
 <div align="right"> 
  <sample>
