@@ -41,7 +41,7 @@
   </kbd>
  </span>
 <div align="center">
- <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="100%" height="50%">
+ <img src="https://bingimages.herokuapp.com/unsplash1" width="100%" height="50%">
 </div>
 <div align="center">
  <span> 
