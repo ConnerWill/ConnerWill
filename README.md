@@ -20,7 +20,7 @@
 <div align="center">
 <span>
 <sample>
- <b><a href="https://connerwill.com">┌─────────────────────────────┐</a></b>
+ <b><a href="https://connerwill.com">┌────────────────────────────────────────┐</a></b>
 </sample>
  <kbd>
   <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
@@ -39,17 +39,17 @@
 <span>
 <div align="center">
  <kbd>
-  <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
+  <a href="https://connerwill.com"><kbd>→ <kbd> Σ </kbd></kbd></a>
   <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
   <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
   <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
   <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
   <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
   <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
-  <a href="https://connerwill.com"><kbd><kbd> ∞ </kbd> ← </kbd></a>
+  <a href="https://connerwill.com"><kbd><kbd> ₹ </kbd> ← </kbd></a>
  </kbd>
  <sample>
-  <b><a href="https://connerwill.com">└─────────────────────────────┘</a></b>
+  <b><a href="https://connerwill.com">└────────────────────────────────────────┘</a></b>
  </sample>
 </span>
 </div>
