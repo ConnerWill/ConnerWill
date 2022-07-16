@@ -132,6 +132,7 @@
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::tr
 <div align="right">
 <details>
+<div align="center">
 <p>
  <a href="https://github.com/ConnerWill">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&&v=5"/>
@@ -140,8 +141,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
  </a>
 </p>
-
-
+</div>
+</div>
+</div>
+</div>
 </details>
 </details>
 </details>
