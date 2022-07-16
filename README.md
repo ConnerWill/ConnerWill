@@ -74,27 +74,19 @@
 
 ---
 
-→ <kbd> π </kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd> ∞ </kbd> <kbd>.                                                   </kbd> ←
+<div align="center">
 
----
+→ <kbd> π </kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd> ∞ </kbd> ←
  
- 
+</div>
+<br>
 <div align="center">
         <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="100%" height="50%">
 </div>
-
-<!--
->  *Random image* **↑**
--->
-
-</div>
-
-
+<br>
 <div align="center">
- 
----
 
-→ <kbd> ∞ </kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd> Σ </kbd> ←
+→ <kbd> ∞ </kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd>  <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd> Σ </kbd> ←
 
 ---
  
