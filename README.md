@@ -90,6 +90,13 @@
 <details>
 <div align="center">
 <br><br>
+<span>
+<sample>
+ <b>
+ <a href="https://connerwill.com">═════════════════════════════════════════════════════════════════════</a>
+ </b>
+</sample>
+</span>
 <p>
  <a href="https://github.com/ConnerWill">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&&v=5"/>
@@ -98,35 +105,31 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
  </a>
 </p>
+<span>
+<sample>
+ <b>
+ <a href="https://connerwill.com">═════════════════════════════════════════════════════════════════════</a>
+ </b>
+</sample>
+</span>
 <br><br>
 </div>
 <div align="right">
-<details>
 </div>
-
- 
- ---
- 
-<div align="right">
-<details>
-/play noooo
-<div align="center">
-
 <div align="right">
 <details>
 <div align="center">
 ═══════════════════════════════════════════════════════════════════════════
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 ═══════════════════════════════════════════════════════════════════════════
-</div></div></div>
-</details></details>
+</div></div>
+<details>
 <div align="center">
  <span>
   $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
  </span>
 </div>
-</details></details>
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
