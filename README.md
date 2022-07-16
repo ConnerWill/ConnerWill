@@ -4,14 +4,12 @@
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
 </div>
-  
 <div align="right">
   
 ```diff
 +                                                                                                   
 ```
 </div>
-  
 <div align="center">
  
 ```pwsh
@@ -24,7 +22,6 @@
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/
 ```
 </div>
-
 <div align="center">
  <span>
   <sample>
@@ -76,14 +73,12 @@
  :'######'. #######::##::. ##:##::' ##;########:##'::. ##::. ###. ###:'####'########:########:
  --.....:::.......::..::::..:..::::..:........:..:::::..::::...::...::....:........:........::
 ```
- 
 </div>
 <div align="left">
  
 ```http
 +                                                                                                                      
 ```
-
 </div> 
 <div align="right">
 <details>
@@ -138,7 +133,6 @@
 <details>
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::tr
 
- 
  ╔════════════════════════════════════════╗
  
  
@@ -150,12 +144,9 @@
 </details>
 </details>
 </details>
- 
- 
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
 </div>
- 
 </div>
