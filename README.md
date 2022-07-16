@@ -26,10 +26,12 @@
 ```
 </div>
 <div align="center">
- <span>
+ 
   <sample>
    <b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b>
   </sample>
+  <br>
+  <span>
   <kbd>
    <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
@@ -56,10 +58,11 @@
    <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
    <a href="https://connerwill.com"><kbd><kbd> ₹ </kbd> ← </kbd></a>
   </kbd>
+ </span>
+ <br>
   <sample>
    <b><a href="https://connerwill.com">╚════════════════════════════════════════╝</a></b>
   </sample>
- </span>
 <br><br>
 </div>
 </div>
