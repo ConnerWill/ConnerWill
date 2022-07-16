@@ -7,11 +7,17 @@
 </p>
 --->
  
-<div align="center">
+<div align="left">
+ 
+```diff
++                                                                                                                       
+```
 
----
+</div> 
  
 
+<div align="center">
+ 
 ```powershell
  ____                                           __      __       ___    ___      
 /\  _`\                                        /\ \  __/\ \  __ /\_ \  /\_ \     
@@ -21,16 +27,8 @@
    \ \____/\ \____/\ \_\ \_\ \_\ \_\ \____\\ \_\  \ `\___x___/\ \_\/\____\/\____\
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/
 ```
----
-</div>
- 
-<div align="left">
- 
-```diff
-+                                                                                                                       
-```
 
-</div> 
+</div>
  
 <div align="center">
 <!--
@@ -74,19 +72,37 @@
 
 -->
 
-→│<kbd>[GitHub](https://github.com/ConnerWill)</kbd>│<kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd>│<kbd>[Gists](https://gist.github.com/ConnerWill)</kbd>│<kbd>[connerwill.com](https://connerwill.com)</kbd>│←
+---
 
+→│ <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> │←
+
+---
+ 
+ 
 <div align="center">
         <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="100%" height="50%">
 </div>
 
+<!--
 >  *Random image* **↑**
+-->
 
 </div>
- 
+
+
 <div align="center">
  
 ---
+
+→│ <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> │←
+
+---
+ 
+</div>
+ 
+ 
+<div align="center">
+ 
  ```lua
  --:::::::::::::::::::::;;;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  :,######':'#######''##'::'##'##::: ##'########'########:::'##:::::'##'####;##':::::'##';;::::
