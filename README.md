@@ -132,6 +132,7 @@
   </details></details>
   </details>
 </div>
+<br><br>
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
@@ -174,4 +175,7 @@ Row 2, Col 1       | Row 2, Col 2
 
 ---
 -->
+ 
+ 
+ 
  
