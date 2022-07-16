@@ -99,7 +99,21 @@
 <br><br>
 </div>
 <div align="right">
+<details>
+</div>
+
  
+ ---
+ 
+<div align="right">
+<details>
+<div align="center">
+
+First column name  | Second column name 
+-------------------|------------------
+Row 1, Col 1       | Row 1, Col 2 
+Row 2, Col 1       | Row 2, Col 2 
+
 <!--
 <details>
 <div align="left">
@@ -142,11 +156,22 @@
 </div>
 </details>
 </details>
+ 
+<div align="center">
+ <span>
+  $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
+  $\frac{n!}{k!(n-k)!} = {n \choose k}$
+ </span>
+</div>
+ 
 </details>
 </details>
+ 
+<div align="left"> 
+ <sample><b>squerill</b></sample>
+</div>
+ 
 <div align="right"> 
- <sample>
-  <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
- </sample>
+ <sample><b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b></sample>
 </div>
 </div>
