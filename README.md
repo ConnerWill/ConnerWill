@@ -4,8 +4,13 @@
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
 </div>
+ 
+<div align="left"> 
+:milky_way:
+<div align="right"> 
+:milky_way:
 <div align="right">
-  
+ 
 ```diff
 +                                                                                                   
 ```
@@ -150,27 +155,19 @@ Row 2, Col 1       | Row 2, Col 2
 ═══════════════════════════════════════════════════════════════════════════
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 ═══════════════════════════════════════════════════════════════════════════
- 
 </div>
 </div>
 </div>
 </details>
 </details>
- 
 <div align="center">
  <span>
   $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
  </span>
 </div>
- 
 </details>
 </details>
- 
-<div align="left"> 
- <sample><b>squerill</b></sample>
-</div>
- 
 <div align="right"> 
  <sample><b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b></sample>
 </div>
