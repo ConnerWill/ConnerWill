@@ -10,14 +10,6 @@
 <div align="center">
 
 ---
-
-<div align="left">
- 
-```diff
-+                                                                                                                       
-```
-
-</div> 
  
 
 ```powershell
@@ -94,16 +86,6 @@
 
 </div>
  
- 
- 
-<div align="left">
- 
-```diff
--                                                                                                                       
-```
-
-</div> 
-
 <div align="center">
  
 ---
