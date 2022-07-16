@@ -25,23 +25,29 @@
  
 ---
  
-<p><b>
- <a href="https://connerwill.com">┌─────────────────────────────┐</a>
-</b></p>
+<p><b><a href="https://connerwill.com">┌─────────────────────────────┐</a></b></p>
 
 <span>
-<kbd>
-<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd> 
-<kbd><a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a></kbd>
-<kbd><a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a></kbd>
-<kbd><a href="https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers"><kbd> Repositories </kbd></a></kbd>
-<kbd><a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a></kbd>
-<kbd><a href="https://dampsock.com"><kbd> dampsock.com </kbd></a></kbd>
-<kbd><a href="https://connerwill.com"><kbd> connerwill.com </kbd></a></kbd>
- 
- 
- 
-<kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Repositories ](https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers)</kbd>   <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> <kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
+ <kbd>
+  <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
+  <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
+  <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
+  <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
+  <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
+  <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
+  <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
+  <a href="https://connerwill.com"><kbd><kbd> ∞ </kbd> ← </kbd></a>
+ </kbd>
+</span>
+
+
+
+<br>
+<br><br>
+
+<kbd><a href="https://connerwill.com"><kbd> connerwill.com </kbd></a></kbd><kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Repositories ](https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers)</kbd>   <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> 
+
+<kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
 
 </kbd>
 </span>
