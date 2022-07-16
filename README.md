@@ -66,13 +66,10 @@
   </sample>
  </span>
 </div>
- 
 
 ---
  
 </div>
- 
- 
 <div align="center">
  
  ```lua
@@ -97,6 +94,7 @@
 </div> 
 <details>
 :shipit:
+<details>
 <div align="left">
  
 ```diff
@@ -134,7 +132,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
  </a>
 </p>
-
+ 
+</details>
 </details>
 </details>
 </div>
