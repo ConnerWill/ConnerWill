@@ -1,9 +1,4 @@
 <div align="center">
-<div align="left"> 
- <sample>
-  <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
- </sample>
-</div>
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
@@ -157,5 +152,10 @@
 </details>
  
  
+<div align="right"> 
+ <sample>
+  <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
+ </sample>
+</div>
  
 </div>
