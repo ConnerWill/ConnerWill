@@ -10,8 +10,7 @@
 ```
 </div> 
 <div align="center">
- 
-```powershell
+ <pre>
  ____                                           __      __       ___    ___      
 /\  _`\                                        /\ \  __/\ \  __ /\_ \  /\_ \     
 \ \ \/\_\    ___     ___     ___      __   _ __\ \ \/\ \ \ \/\_\\//\ \ \//\ \    
@@ -19,15 +18,13 @@
   \ \ \L\ \/\ \L\ \/\ \/\ \/\ \/\ \/\  __/\ \ \/ \ \ \_/ \_\ \ \ \ \_\ \_ \_\ \_ 
    \ \____/\ \____/\ \_\ \_\ \_\ \_\ \____\\ \_\  \ `\___x___/\ \_\/\____\/\____\
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/
-```
+ </pre>
 </div>
 <div align="center">
- 
----
- 
-<p><b><a href="https://connerwill.com">┌─────────────────────────────┐</a></b></p>
-
 <span>
+<sample>
+ <b><a href="https://connerwill.com">┌─────────────────────────────┐</a></b>
+</sample>
  <kbd>
   <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
   <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
@@ -41,16 +38,6 @@
 </span>
 
 
-
-<br>
-<br><br>
-
-<kbd><a href="https://connerwill.com"><kbd> connerwill.com </kbd></a></kbd><kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Repositories ](https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers)</kbd>   <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> 
-
-<kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
-
-</kbd>
-</span>
  
 </div>
 <br>
