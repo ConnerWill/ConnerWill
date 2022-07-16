@@ -76,6 +76,11 @@
 
 <div align="center">
 
+<p><b>
+┌─────────────────────────────┐
+</b></p>
+
+
 → <kbd> π </kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd> ∞ </kbd> ←
  
 </div>
@@ -87,6 +92,10 @@
 <div align="center">
 
 → <kbd> ∞ </kbd> <kbd>[connerwill.com](https://connerwill.com)</kbd> <kbd>[Gists](https://gist.github.com/ConnerWill)</kbd>  <kbd>[GitLab](https://gitlab.com/ConnerWill)</kbd> <kbd>[GitHub](https://github.com/ConnerWill)</kbd> <kbd> Σ </kbd> ←
+
+<p><b>
+└─────────────────────────────┘
+</b></p>
 
 ---
  
