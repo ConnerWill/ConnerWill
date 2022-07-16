@@ -101,6 +101,8 @@
 <br><br>
 </div>
 <div align="right">
+ 
+<!--
 <details>
 <div align="left">
  
@@ -128,6 +130,7 @@
 </div> 
 
 ---
+-->
  
 <div align="right">
 <details>
