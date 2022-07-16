@@ -3,13 +3,10 @@
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
+ :milky_way:
 </div>
  
 <div align="left"> 
-:milky_way:
-<div align="right"> 
-:milky_way:
-<div align="right">
  
 ```diff
 +                                                                                                   
@@ -112,14 +109,38 @@
  
 <div align="right">
 <details>
+/play noooo
 <div align="center">
 
+<div align="right">
+<details>
+<div align="center">
+═══════════════════════════════════════════════════════════════════════════
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+═══════════════════════════════════════════════════════════════════════════
+</div></div></div>
+</details></details>
+<div align="center">
+ <span>
+  $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
+  $\frac{n!}{k!(n-k)!} = {n \choose k}$
+ </span>
+</div>
+</details></details>
+<div align="right"> 
+ <sample>
+  <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
+ </sample>
+  :milky_way:
+</div></div>
+ 
+
+ <!--
 First column name  | Second column name 
 -------------------|------------------
 Row 1, Col 1       | Row 1, Col 2 
 Row 2, Col 1       | Row 2, Col 2 
 
-<!--
 <details>
 <div align="left">
  
@@ -149,26 +170,3 @@ Row 2, Col 1       | Row 2, Col 2
 ---
 -->
  
-<div align="right">
-<details>
-<div align="center">
-═══════════════════════════════════════════════════════════════════════════
-:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
-═══════════════════════════════════════════════════════════════════════════
-</div>
-</div>
-</div>
-</details>
-</details>
-<div align="center">
- <span>
-  $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
-  $\frac{n!}{k!(n-k)!} = {n \choose k}$
- </span>
-</div>
-</details>
-</details>
-<div align="right"> 
- <sample><b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b></sample>
-</div>
-</div>
