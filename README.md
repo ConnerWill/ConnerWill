@@ -130,6 +130,7 @@
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
  </span>
   </details></details>
+  </details>
 </div>
 <div align="right"> 
  <sample>
