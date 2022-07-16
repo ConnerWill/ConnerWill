@@ -121,7 +121,6 @@
 
 ```
 </div> 
-</details>
 
 ---
 
@@ -136,6 +135,6 @@
  </a>
 </p>
 
- 
+</details>
 </details>
 </div>
