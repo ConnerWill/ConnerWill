@@ -95,12 +95,13 @@
 <div align="right">
 <details>
 <div align="center">
-<br><br>
+<br>
 :shipit:
-<br><br>
+<br>
 <div align="right">
 <details>
 <div align="center">
+<br><br>
 <p>
  <a href="https://github.com/ConnerWill">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&&v=5"/>
@@ -109,6 +110,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
  </a>
 </p>
+<br><br>
 </div>
 <div align="right">
 <details>
