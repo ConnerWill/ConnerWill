@@ -81,7 +81,7 @@
   </b>
  </p>
 
-<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd>   <kbd>   <kbd>[ GitHub ](https://github.com/ConnerWill)</kbd>   <kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> <kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
+<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd>   <kbd>   <kbd>[ GitHub ](https://github.com/ConnerWill)</kbd>   <kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Repositories ](https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers)</kbd>   <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> <kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
 
 </div>
 <br>
@@ -92,9 +92,9 @@
  
 <div align="center">
 
-<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd>   <kbd>   <kbd>[ GitHub ](https://github.com/ConnerWill)</kbd>   <kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> <kbd><a href="https://damsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
+<kbd><a href="https://connerwill.com">→ <kbd> π </kbd></a></kbd>   <kbd>   <kbd>[ GitHub ](https://github.com/ConnerWill)</kbd>   <kbd>[ GitLab ](https://gitlab.com/ConnerWill)</kbd> <kbd>[ Repositories ](https://github.com/ConnerWill?tab=repositories&q=&type=&language=&sort=stargazers)</kbd>   <kbd>[ Gists ](https://gist.github.com/ConnerWill)</kbd>   <kbd>[ dampsock.com ](https://dampsock.com)</kbd> <kbd><a href="https://dampsock.com">   [ connerwill.com ](https://connerwill.com)</kbd></kbd></kbd> <kbd><a href="https://dampsock.com">   <kbd> ∞ </kbd> ←</kbd></a>
 
- </div>
+</div>
  
 <p><b>
 <a href="https://connerwill.com">└─────────────────────────────┘</a>
