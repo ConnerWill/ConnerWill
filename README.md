@@ -74,7 +74,7 @@
 
 -->
 
-→│[GitHub](https://github.com/ConnerWill)│[GitLab](https://gitlab.com/ConnerWill)│[Gists](https://gist.github.com/ConnerWill)│[connerwill.com](https://connerwill.com)│←
+→│<kbd>[GitHub](https://github.com/ConnerWill)</kbd>│[GitLab](https://gitlab.com/ConnerWill)│[Gists](https://gist.github.com/ConnerWill)│[connerwill.com](https://connerwill.com)│←
 
 <div align="center">
         <img src="https://bingimages.herokuapp.com/unsplash1" alt="Random Image" width="100%" height="50%">
