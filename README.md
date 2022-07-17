@@ -81,10 +81,12 @@
 ```
 </div>
 <div align="left">
- 
+
 ```http
 +                                                                                                                      
 ```
+
+![Website](https://img.shields.io/website?down_color=%23ff0000&down_message=offline&label=connerwill.com&up_color=%2300ff00&up_message=online&url=https%3A%2F%2Fconnerwill.com)
 </div> 
 <div align="right">
 <details>
