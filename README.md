@@ -33,14 +33,14 @@
   <br>
   <span>
   <kbd>
-   <a href="https://connerwill.com"><kbd>→ <kbd> 〠 </kbd></kbd></a>
+   <a href="https://connerwill.com"><kbd> &#x239A; <kbd> 〠 </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
    <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
    <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
    <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
    <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
    <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
-   <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
+   <a href="https://connerwill.com"><kbd><kbd> &#x274D; </kbd> &#x2672; </kbd></a>
   </kbd>
  </span>
 <div align="center">
@@ -49,14 +49,14 @@
 <div align="center">
  <span> 
   <kbd>
-   <a href="https://connerwill.com"><kbd>→ <kbd> ☻ </kbd></kbd></a>
+   <a href="https://connerwill.com"><kbd> &#x2748; <kbd> ☻ </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
    <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
    <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
    <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
    <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
    <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
-   <a href="https://connerwill.com"><kbd><kbd> ⸎ </kbd> ← </kbd></a>
+   <a href="https://connerwill.com"><kbd><kbd> &#x262C; </kbd> &#x26C0; </kbd></a>
   </kbd>
  </span>
  <br>
