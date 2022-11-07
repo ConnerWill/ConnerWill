@@ -1,4 +1,3 @@
-<div align="center">
 <div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
@@ -7,12 +6,14 @@
 </div>
 <br>
  
-<div align="left"> 
- 
+<div align="right"> 
+
 ```diff
-+                                                                                                   
++                                                                                                                      
 ```
+
 </div>
+
 <div align="center">
  
 ```pwsh
@@ -25,8 +26,8 @@
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/
 ```
 </div>
+
 <div align="center">
- 
   <sample>
    <b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b>
   </sample>
@@ -79,35 +80,129 @@
  :'######'. #######::##::. ##:##::' ##;########:##'::. ##::. ###. ###:'####'########:########:
  --.....:::.......::..::::..:..::::..:........:..:::::..::::...::...::....:........:........::
 ```
+
 </div>
-<div align="left">
+
+<div align="right">
 
 ```http
 +                                                                                                                      
 ```
-	
-</div>
-<div align="center">
-	
-![Website](https://img.shields.io/website?down_color=%23ff0000&down_message=offline&label=connerwill.com&up_color=%2300ff00&up_message=online&url=https%3A%2F%2Fconnerwill.com)
 
-</div> 
-<div align="right">
+</div>
+
+
+<a href="https://connerwill.com/static/img/xmr-qr-connerwill.com.png"><img src="https://connerwill.com/static/img/xmr.svg" alt="Monero (XMR) icon and wallet QR code" width="2%" height="2%"> XMR</a> :  <code>86tE67soBqFb5fxNGgC4HLdwZXebP42ewfBwfKyMDKvFbgA7T8p4g4T5BBNA9LNbwaVafup973w41PdvCS7bbj6gTNQpCh1</code>
+
+<a href="https://connerwill.com"><img src="https://connerwill.com/static/img/btc.svg" alt="₿" width="2%" height="2%"></a> BTC : <code>bc1qpg5d69n2knsete7vw7f2vqpkg4a0faq9rc6se0</code>
+	
+![connerwill.com](https://img.shields.io/website?down_color=%23ff0000&down_message=offline&label=connerwill.com&up_color=%2300ff00&up_message=online&url=https%3A%2F%2Fconnerwill.com)
+
+
+<div align="left">
 <details>
 <div align="center">
 :shipit:
+	
 <div align="right">
 <details>
 <div align="center">
+:trollface:
+
+<div align="left">
+<details>
+<div align="center">
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+	
+
+<div align="right">
+<details>
+<div align="center">
+ <span>
+  $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
+  $\frac{n!}{k!(n-k)!} = {n \choose k}$
+ </span>
+
+	
+<div align="left">
+<details>
+<div align="center">
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+	
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+	
+<div align="left">
+<details>
+	
+---
+	
+<div align="center">
+	⃢	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+		⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+:⃢:trollface:	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+
+	⃢	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+
+	⃢:trollface:	
+	⃢:trollface:	
+
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+	⃢:trollface:	
+		⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:	
+
+</div>
+
+---
+	
 <br><br>
-<span>
+	
+<details>
 <sample>
- <b>
- <a href="https://connerwill.com">═════════════════════════════════════════════════════════════════════</a>
- </b>
-</sample>
-</span>
-<!--
+<div align="center">
 <p>
  <a href="https://github.com/ConnerWill">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&&v=5"/>
@@ -116,79 +211,36 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
  </a>
 </p>
--->
-<span>
-<sample>
- <b>
- <a href="https://connerwill.com">═════════════════════════════════════════════════════════════════════</a>
- </b>
 </sample>
-</span>
-<br><br>
+	
+---
+	
 </div>
-<div align="right">
 </div>
-<div align="right">
-<details>
-<div align="center">
-═══════════════════════════════════════════════════════════════════════════
-:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
-═══════════════════════════════════════════════════════════════════════════
-</div></div>
-<details>
-<div align="center">
- <span>
-  $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
-  $\frac{n!}{k!(n-k)!} = {n \choose k}$
- </span>
-  </details></details>
-  </details>
 </div>
-<br>
-<div align="right"> 
+</details>
+</details>
+</div>
+</div>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</div>
+</div>
+
+<div align="center"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
   :milky_way:
-</div></div>
- 
+</div>
 
- <!--
-	&#x20E2;	⃢
-First column name  | Second column name 
--------------------|------------------
-Row 1, Col 1       | Row 1, Col 2 
-Row 2, Col 1       | Row 2, Col 2 
 
-<details>
-<div align="left">
- 
-```diff
 
--                                                                                                                       
 
-+                                                                                                                       
-
--                                                                                                                       
-
-+                                                                                                                       
-
--                                                                                                                       
-
-+                                                                                                                       
-
--                                                                                                                       
-
-+                                                                                                                       
-
--                                                                                                                     
-
-```
-</div> 
-
----
--->
- 
  
  
  
