@@ -118,7 +118,7 @@
  </span>
 
 	
-<div align="left">
+<div align="right">
 <details>
 <div align="center">
 
@@ -126,7 +126,7 @@
 	
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 	
-<div align="left">
+<div align="center">
 <details>
 	
 ---
