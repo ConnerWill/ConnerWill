@@ -112,13 +112,6 @@
 <div align="left">
 <details>
 <div align="center">
-
-:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
-	
-
-<div align="right">
-<details>
-<div align="center">
  <span>
   $e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
@@ -139,60 +132,62 @@
 ---
 	
 <div align="center">
-	⃢	⃢
-	⃢
+	⃢	⃢	⃢
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
-		⃢
-	⃢
+		⃢	⃢
 	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:
-	⃢:trollface:	
-:⃢:trollface:	⃢
-	⃢
-	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:
-	⃢:trollface:	
-
-	⃢	⃢
-	⃢
-	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:
-	⃢:trollface:	
-
-	⃢
-	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:	⃢
-	⃢
-	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:
-	⃢:trollface:	
-
-	⃢:trollface:	
-	⃢:trollface:	
-
-	⃢
-	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::tro
+	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
 	⃢
 	⃢
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
-	⃢:trollface:	
-	⃢:trollface:	
-		⃢
+	⃢:trollface:llface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
+	⃢
 	⃢
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
+	⃢:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:	⃢:trollface:	⃢:trollface::⃢:trollface:
+:trollface:	:⃢:trollface:	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+:trollface:	⃢:trollface:
+	:⃢:trollface:	⃢:trollface:	
+	⃢	⃢	⃢
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
+	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface::⃢:trollface:	⃢:trollface:	
+	⃢	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:	⃢	⃢
+	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:	⃢:trollface:	
 	⃢:trollface:	
+	⃢:trollface:	
+	⃢
+	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
+	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:
+	⃢:trollface:
+	⃢:trollface:	⃢
+	⃢
+	⃢	⃢	⃢:trollface:⃢
+	⃢:trollface:	⃢:trollface:
+	:⃢:trollface:	⃢:trollface:	
 
 </div>
 
