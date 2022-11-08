@@ -1,54 +1,4 @@
-
-<div align="center">
-
-```bash
-:(){ :|: & };:	
-
- ▄████████  ▄██████▄  ███▄▄▄▄   ███▄▄▄▄      ▄████████    ▄████████  ▄█     █▄   ▄█   ▄█        ▄█       
-███    ███ ███    ███ ███▀▀▀██▄ ███▀▀▀██▄   ███    ███   ███    ███ ███     ███ ███  ███       ███       
-███    █▀  ███    ███ ███   ███ ███   ███   ███    █▀    ███    ███ ███     ███ ███▌ ███       ███       
-███        ███    ███ ███   ███ ███   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀ ███     ███ ███▌ ███       ███       
-███        ███    ███ ███   ███ ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ███     ███ ███▌ ███       ███       
-███    █▄  ███    ███ ███   ███ ███   ███   ███    █▄  ▀███████████ ███     ███ ███  ███       ███       
-███    ███ ███    ███ ███   ███ ███   ███   ███    ███   ███    ███ ███ ▄█▄ ███ ███  ███▌    ▄ ███▌    ▄ 
-████████▀   ▀██████▀   ▀█   █▀   ▀█   █▀    ██████████   ███    ███  ▀███▀███▀  █▀   █████▄▄██ █████▄▄██ 
-                                                         ███    ███                  ▀         ▀         
-``` 
-</div>
-
-<div align="center">
- <span>  
-  <kbd>
-   <a href="https://connerwill.com"><kbd> &#x2748; <kbd> ☻ </kbd></kbd></a>
-   <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
-   <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
-   <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
-   <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
-   <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
-   <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
-   <a href="https://connerwill.com"><kbd><kbd> &#x262C; </kbd> &#x26C0; </kbd></a>
-  </kbd>
- </span>
- <br>
-  <sample>
-   <b><a href="https://connerwill.com">╚════════════════════════════════════════╝</a></b>
-
-</div>
-
-# Donate Crypto
-
-<hr>
-
-| <a href="https://connerwill.com/static/img/xmr-qr-connerwill.com.png"><img src="https://connerwill.com/static/img/xmr.svg" width="80" alt="Monero (XMR) icon and wallet QR code"> XMR</a> 	|  <pre><code>86tE67soBqFb5fxNGgC4HLdwZXebP42ewfBwfKyMDKvFbgA7T8p4g4T5BBNA9LNbwaVafup973w41PdvCS7bbj6gTNQpCh1</code></pre> 	|
-|---	|---	|
-| <a href="https://connerwill.com"><img src="https://connerwill.com/static/img/btc.svg" width="80" alt="₿"> BTC</a> | <pre><code>bc1qpg5d69n2knsete7vw7f2vqpkg4a0faq9rc6se0</code></pre> |
-
-<hr>
-<br>
-
-
-	
-	<div align="right"> 
+<div align="right"> 
  <sample>
   <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
  </sample>
@@ -318,15 +268,3 @@ release */
 </details>
 </div>
 </div>
-	
-	
-<div align="left"> 
- <sample>
-  <b>&Copf;&empty;&Nopf;&Nopf;&Sigma;&Ropf;</b>
- </sample>
- :milky_way:
-	
-![connerwill.com](https://img.shields.io/website?down_color=%23ff0000&down_message=offline&label=connerwill.com&up_color=%2300ff00&up_message=online&url=https%3A%2F%2Fconnerwill.com)
-
-</div>
- 
