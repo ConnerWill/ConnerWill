@@ -241,7 +241,7 @@ release */
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ConnerWill&&show_icons=true&theme=tokyonight&&v=5"/>
  </a>
  <a href="https://github.com/ConnerWill">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=3&theme=tokyonight&hide="/>
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWill&langs_count=5&theme=tokyonight&hide="/>
  </a>
 </p>
 </sample>
