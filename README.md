@@ -57,9 +57,11 @@
    <a href="https://connerwill.com"><kbd><kbd> &#x274D; </kbd> &#x2672; </kbd></a>
   </kbd>
  </span>
+<!--
 <div align="center">
  <a href="https://connerwill.com/content/misc/void.html"><img src="https://bingimages.herokuapp.com/unsplash1" width="100%" height="50%"></a>
 </div>
+-->
 <div align="center">
  <span>
   <kbd>
